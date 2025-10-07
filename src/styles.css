@@ -3,12 +3,26 @@ body {
 }
 
 h1 {
-  color: red;
+  color: black;
   text-align: center;
+}
+
+p {
+  text-align: center;
+}
+a {
+  color: rgb(126, 8, 135);
 }
 
 .link-container {
   display: flex;
   justify-content: center;
   gap: 20px;
+}
+.croissant-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 50%;
 }
