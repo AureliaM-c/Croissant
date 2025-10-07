@@ -1,3 +1,14 @@
+body {
+  background-color: rgb(184, 172, 113);
+}
+
 h1 {
-  color: blue;
+  color: red;
+  text-align: center;
+}
+
+.link-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
 }
